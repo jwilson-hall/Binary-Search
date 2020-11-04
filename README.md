@@ -1,2 +1,4 @@
 # Binary-Search
-Binary Search algorithms
+Binary Search algorithms for a few different languages
+
+
